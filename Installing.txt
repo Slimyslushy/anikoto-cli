@@ -1,0 +1,21 @@
+To install anikoto-cli:
+
+1. Download the anikoto-cli file.
+2. Make it executable:
+   chmod +x anikoto-cli
+3. Move it to /usr/local/bin:
+   sudo cp anikoto-cli /usr/local/bin/
+
+Done!
+
+I have only tested this on Arch Linux, but it should work on most Linux distributions.
+
+TO RUN anikoto-cli you will need certain dependencies such as:
+1. mpv
+2. fzf
+3. curl
+4. python3
+
+Note:
+- This script has only been tested in Bash.
+- Other POSIX-compatible shells may work, but are untested.
