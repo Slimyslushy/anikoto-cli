@@ -35,7 +35,6 @@ Then enter your desired anime
 
 NOTE
 NOT WORKING!!!!!!
-Subtitles
 ani-cli menu to move to next episode, previous episode, quality etc...
 
 THIS IS A PASSION PROJECT
